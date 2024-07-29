@@ -1,3 +1,9 @@
+# Example Markdown File
+
+Here is a GIF demonstrating the feature:
+
+![Feature Demo](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+
 <a href="https://totaltypescript.com"><img src="./og-image.png" /></a>
 
 ## Quickstart 07/18/2024
