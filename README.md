@@ -1,7 +1,7 @@
 
 <a href="https://totaltypescript.com"><img src="./og-image.png" /></a>
 
-## Quickstart 07/29/2024
+## Quickstart 10/4/2024
 
 Clone this repo or [open in Gitpod](https://gitpod.io/#https://github.com/total-typescript/beginners-typescript).
 
